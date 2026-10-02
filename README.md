@@ -81,3 +81,5 @@ Contributions, bug reports, and suggestions are welcome!
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
 
 Developed by [Mokhles Ben Moallem](https://github.com/domdom007) • [Meta Creative Tunisia](https://metatunisie.com)
+
+<!-- Author: DomDom007 -->
